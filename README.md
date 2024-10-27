@@ -1,2 +1,2 @@
 # Weather_App
-This app can tell the report of weather forecast for three consecutive days.
+This app can tell the live weather cast report of Jamshedpur for three consecutive days.
